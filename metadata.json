@@ -1,0 +1,6 @@
+{
+  "name": "VEX6 x TAHIM",
+  "description": "An aesthetic hacker/gamer Mod Loader with animated splash screens, key validation simulations, and modular toggles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
